@@ -1,16 +1,23 @@
 ### Hi there 👋
+### i'm Andre Oliveira, do you wanna know some fun facts about this profile or about me?
 
-<!--
-**oliveira-andre/oliveira-andre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+On this profile you will find many repositories that has:
 
-Here are some ideas to get you started:
+- Open Source Code (Obviously)
+- Many different languages like: Ruby, JavaScript, Go, Java and many others
+- New and old technologies that i'm studying or working with
+- A lot of crazy code and i have sure that they will blow your mind (or not LMAO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oliveira-andre)](https://github.com/oliveira-andre)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-oliveira-5b9631135/)](https://www.linkedin.com/in/andre-oliveira-5b9631135/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+556993685534text=Hello!)](https://api.whatsapp.com/send?phone=+556993685534&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:andreoliveirar2d2@gmail.com)
+
+
+- I’m currently working on[@locaweb](http://github.com/locaweb)
+
+- Thanks for visiting. 
+- Enjoy it!! o/
