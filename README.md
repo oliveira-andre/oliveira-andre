@@ -17,7 +17,7 @@ On this profile you will find many repositories that has:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:andreoliveirar2d2@gmail.com)
 
 
-- I’m currently working on[@locaweb](http://github.com/locaweb)
+- I’m currently working on [@locaweb](http://github.com/locaweb)
 
 - Thanks for visiting. 
 - Enjoy it!! o/
