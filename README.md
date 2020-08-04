@@ -17,6 +17,19 @@ On this profile you will find many repositories that has:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:andreoliveirar2d2@gmail.com)
 
 
+<center>
+  <table>
+    <tr>
+      <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-andre&hide=html&layout=compact" />
+      </td>
+      <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=oliveira-andre&theme=default" />
+      </td>
+    </tr>
+  </table>
+</center>
+
 - I’m currently working on [@locaweb](http://github.com/locaweb)
 
 - Thanks for visiting. 
