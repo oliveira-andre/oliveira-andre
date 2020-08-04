@@ -30,7 +30,7 @@ On this profile you will find many repositories that has:
   </table>
 </center>
 
-- I’m currently working on [@locaweb](http://github.com/locaweb)
+- I’m currently working at [@locaweb](http://github.com/locaweb)
 
 - Thanks for visiting. 
 - Enjoy it!! o/
