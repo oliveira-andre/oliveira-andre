@@ -21,7 +21,7 @@ On this profile you will find many repositories that has:
   <tr>
     <td>
       <a href="https://github-readme-stats.vercel.app/api?username=oliveira-andre&theme=dracula">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=oliveira-andre&theme=dracula" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=oliveira-andre&show_icons=true&theme=dracula" />
       </a>
     </td>
     <td>
