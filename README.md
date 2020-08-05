@@ -17,12 +17,14 @@ On this profile you will find many repositories that has:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:andreoliveirar2d2@gmail.com)
 
 
+<center>
 <a href="https://github-readme-stats.vercel.app/api?username=oliveira-andre&theme=dracula">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=oliveira-andre&theme=dracula" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-andre&theme=dracula&hide=html">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-andre&layout=compact&theme=dracula&hide=html" />
 </a>
+</center>
 
 - I’m currently working at [@locaweb](http://github.com/locaweb)
 
