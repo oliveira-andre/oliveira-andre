@@ -20,7 +20,7 @@ On this profile you will find many repositories that has:
 <table>
   <tr>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api?username=oliveira-andre&theme=dracula">
+      <a href="https://github-readme-stats.vercel.app/api?username=oliveira-andre&theme=dracula&show_icons=true">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=oliveira-andre&show_icons=true&theme=dracula" />
       </a>
     </td>
