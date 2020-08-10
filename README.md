@@ -14,9 +14,11 @@ On this profile you will find many repositories that has:
 
 <table>
 <tr>
-  <td>
-    <a href=[dev_from_hell></a>
-    <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />
+  <td colspan="2">
+    <a href="https://oliveira-andre.dev">
+      <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />
+      <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
+    </a>
   </td>
 </tr>
   <tr>
@@ -33,7 +35,6 @@ On this profile you will find many repositories that has:
   </tr>
 </table>
 
-[<img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />][dev_from_hell]
 [<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />][dev_from_hell]
 [<img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/master/topics/vue/vue.png" />][dev_from_hell]
 [<img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://github.com/github/explore/raw/master/topics/python/python.png" />][dev_from_hell]
@@ -59,4 +60,3 @@ On this profile you will find many repositories that has:
 - Thanks for visiting. 
 - Enjoy it!! o/
 
-[dev_from_hell]: https://oliveira-andre.dev/codes
