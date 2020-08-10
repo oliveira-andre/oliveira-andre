@@ -8,6 +8,21 @@ On this profile you will find many repositories that has:
 - New and old technologies that i'm studying or working with
 - A lot of crazy code and i have sure that they will blow your mind (or not LMAO)
 
+### Languages & Tools
+
+[<img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/master/topics/vue/vue.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://github.com/github/explore/raw/master/topics/python/python.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://github.com/github/explore/raw/master/topics/nodejs/nodejs.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://github.com/github/explore/raw/master/topics/go/go.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/master/topics/sql/sql.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://github.com/github/explore/raw/master/topics/mongodb/mongodb.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Terraform" width="32px" src="https://github.com/github/explore/raw/master/topics/terraform/terraform.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/master/topics/docker/docker.png" />][dev_from_hell]
+
 
 ### About me
 
@@ -36,3 +51,5 @@ On this profile you will find many repositories that has:
 
 - Thanks for visiting. 
 - Enjoy it!! o/
+
+[dev_from_hell](https://oliveira-andre.dev/codes)
