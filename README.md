@@ -13,7 +13,7 @@ On this profile you will find many repositories that has:
 <br />
 
 <table>
-<tr>
+<tr style="align-items: center;">
   <td colspan="2">
     <a href="https://oliveira-andre.dev">
       <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />
