@@ -10,22 +10,15 @@ On this profile you will find many repositories that has:
 
 ### Languages & Tools
 
-[<img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/master/topics/vue/vue.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://github.com/github/explore/raw/master/topics/python/python.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://github.com/github/explore/raw/master/topics/nodejs/nodejs.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://github.com/github/explore/raw/master/topics/go/go.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/master/topics/sql/sql.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://github.com/github/explore/raw/master/topics/mongodb/mongodb.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="Terraform" width="32px" src="https://github.com/github/explore/raw/master/topics/terraform/terraform.png" />][dev_from_hell]
-[<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/master/topics/docker/docker.png" />][dev_from_hell]
-
 <br />
 
 <table>
+<tr>
+  <td>
+    <a href=[dev_from_hell></a>
+    <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />
+  </td>
+</tr>
   <tr>
     <td>
       <a href="https://github-readme-stats.vercel.app/api?username=oliveira-andre&theme=dracula&show_icons=true">
@@ -39,6 +32,19 @@ On this profile you will find many repositories that has:
     </td>
   </tr>
 </table>
+
+[<img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/master/topics/vue/vue.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://github.com/github/explore/raw/master/topics/python/python.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://github.com/github/explore/raw/master/topics/nodejs/nodejs.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://github.com/github/explore/raw/master/topics/go/go.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/master/topics/sql/sql.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://github.com/github/explore/raw/master/topics/mongodb/mongodb.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Terraform" width="32px" src="https://github.com/github/explore/raw/master/topics/terraform/terraform.png" />][dev_from_hell]
+[<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/master/topics/docker/docker.png" />][dev_from_hell]
+
 
 ### About me
 
