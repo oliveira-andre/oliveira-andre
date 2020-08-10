@@ -8,7 +8,6 @@ On this profile you will find many repositories that has:
 - New and old technologies that i'm studying or working with
 - A lot of crazy code and i have sure that they will blow your mind (or not LMAO)
 
-----
 ### Languages & Tools
 
 [<img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />][dev_from_hell]
@@ -24,7 +23,8 @@ On this profile you will find many repositories that has:
 [<img align="left" style="padding-right: 12px" alt="Terraform" width="32px" src="https://github.com/github/explore/raw/master/topics/terraform/terraform.png" />][dev_from_hell]
 [<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/master/topics/docker/docker.png" />][dev_from_hell]
 
-----
+<br />
+
 ### About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oliveira-andre)](https://github.com/oliveira-andre)
