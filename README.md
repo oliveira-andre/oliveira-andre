@@ -14,7 +14,7 @@ On this profile you will find many repositories that has:
 <tr>
   <td colspan="2">
     <a href="https://oliveira-andre.dev">
-      <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />
+      <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://www.ruby-lang.org/images/header-ruby-logo.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
       <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />
       <img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/master/topics/vue/vue.png" />
