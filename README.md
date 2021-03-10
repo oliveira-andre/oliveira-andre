@@ -21,7 +21,7 @@ On this profile you will find many repositories that has:
       <img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
       <img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
       <img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://blog.golang.org/lib/godoc/images/go-logo-blue.svg" />
-      <img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F1200px-Typescript_logo_2020.svg.png&f=1&nofb=1" />
+      <img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
       <img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://www.lansweeper.com/wp-content/uploads/2018/05/ASSET-SOFTWARE-SQL-DATABASE.png" />
       <img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" />
       <img align="left" style="padding-right: 12px" alt="Terraform" width="32px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" />
