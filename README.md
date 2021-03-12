@@ -15,6 +15,7 @@ On this profile you will find many repositories that has:
   <td colspan="2">
     <a href="https://oliveira-andre.dev">
       <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://seeklogo.com/images/R/ruby-logo-087AF79367-seeklogo.com.jpg" />
+      <img align="left" style="padding-right: 12px" alt="Rails" width="32px" src="https://seeklogo.com/images/R/rails-logo-DD0927D290-seeklogo.com.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
       <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" />
       <img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://vuejs.org/images/logo.png" />
