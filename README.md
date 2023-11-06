@@ -52,7 +52,7 @@ On this profile you will find many repositories that has:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:andreoliveirar2d2@gmail.com)
 
 
-- I’m currently working at [@decisiv](https://github.com/Decisiv/)
+- I’m currently working at [@partner-fleet](https://github.com/Partner-Fleet)
 
 - Thanks for visiting. 
 - Enjoy it!! o/
